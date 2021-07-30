@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Fahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fahim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -32,8 +32,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fahim19dipu&show_icons=true&theme=radical" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim19dipu" />
+<img align="left" alt="Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fahim19dipu&show_icons=true&theme=radical" />
+<img align="left" alt="Fahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim19dipu&show_icons=true&theme=radical" />
 </details>
 
 
